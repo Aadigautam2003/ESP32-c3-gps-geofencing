@@ -25,3 +25,8 @@ A standalone IoT geofencing and asset-tracking system built on the **ESP32-C3** 
 2. Select **ESP32C3 Dev Module** under *Tools -> Board*.
 3. Update `WIFI_SSID` and `WIFI_PASSWORD` with your network credentials.
 4. Upload the sketch and open the **Serial Monitor** at `115200` baud to view the dashboard IP address.
+
+
+CONTRIBUTORS:
+1)Aadi Gautam
+2)Manvi Gola

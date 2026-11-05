@@ -2,7 +2,8 @@
 
 A standalone IoT geofencing and asset-tracking system built on the **ESP32-C3** with a custom raw NMEA parser, spherical Haversine distance engine, hysteresis boundary protection, and an interactive **Leaflet.js** web dashboard.
 
-![Dashboard Screenshot](<img width="1871" height="835" alt="Screenshot 2026-10-31 145139" src="https://github.com/user-attachments/assets/c7db17cd-f6e4-47f6-bdba-f7919bd231d1" />
+![Dashboard Screenshot](<![Uploading Screenshot 2026-10-31 143033.png…]()
+>
 )
 
 ## Key Features

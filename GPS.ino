@@ -8,8 +8,8 @@
 // 1. WIFI SETTINGS
 // =====================================================
 
-const char *WIFI_SSID = "DSEU-FACULTY-WiFi";
-const char *WIFI_PASSWORD = "DseU@123##";
+const char *WIFI_SSID = "YOUR_WIFI_SSID";
+const char *WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 
 // ESP32 hotspot fallback
 const char *AP_SSID = "ESP32_GPS_DASHBOARD";
